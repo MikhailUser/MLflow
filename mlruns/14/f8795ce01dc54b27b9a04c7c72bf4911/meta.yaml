@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mihai/Desktop/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20mlflow/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/8b324b5dcea64e5c82e406ca6bfb689f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+name: ''
+run_id: f8795ce01dc54b27b9a04c7c72bf4911
+run_uuid: f8795ce01dc54b27b9a04c7c72bf4911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649229620223
+status: 1
+tags: []
+user_id: mihai

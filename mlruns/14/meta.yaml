@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/mihai/Vmeste/mlruns/3
+experiment_id: '14'
+lifecycle_stage: active
+name: KMeans
